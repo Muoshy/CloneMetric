@@ -1,6 +1,6 @@
 # CloneMetric - IoT Smart Display/Clock
 
-A simple IoT display inspired by the LaMetric Time.\ 
+A simple IoT display inspired by the LaMetric Time.   
 Built with a NodeMCU ESP8266 and 32x8 Neopixel matrix.\
 Compiled and flashed with PlatformIO plugin for VSCode.\
 [Incomplete build guide](https://imgur.com/gallery/VMxkOoG)\
